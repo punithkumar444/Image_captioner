@@ -10,7 +10,7 @@ import os
 from config import config
 
 """
-    *Some simple checking
+    *Some simple checking--
 """
 assert type(config['max_length']) is int, 'Please provide an integer value for `max_length` parameter in config.py file'
 assert type(config['beam_search_k']) is int, 'Please provide an integer value for `beam_search_k` parameter in config.py file'

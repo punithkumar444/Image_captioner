@@ -10,7 +10,7 @@ from tqdm import tqdm
 from nltk.translate.bleu_score import corpus_bleu
 
 """
-	*Define the CNN model
+	*Define the CNN model--
 """
 def CNNModel(model_type):
 	if model_type == 'inceptionv3':

@@ -1,5 +1,5 @@
 
-# CaptionCraft
+# Image_captioner
 
 ## Introduction
 This project focuses on developing a hybrid image captioning model that integrates InceptionV3 and LSTM networks. The goal is to generate meaningful captions for images by extracting image features and utilizing sequential text data.

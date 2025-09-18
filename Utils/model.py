@@ -12,6 +12,9 @@ from nltk.translate.bleu_score import corpus_bleu
 """
 	*Define the CNN model--
 """
+# added bug
+# bug removed
+
 def CNNModel(model_type):
 	if model_type == 'inceptionv3':
 		model = InceptionV3()
